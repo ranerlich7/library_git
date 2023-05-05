@@ -13,15 +13,22 @@ python book.py
 
 # ex 2: 
 
-install another library and add it to requirements.txt. then update it to github
+make a new file. numtext.py . and run this code:
+import numpy
 
-install pandas. add some code.
+arr = numpy.array([1, 2, 3, 4, 5])
 
-pip freeze > requirments.txt
+print(arr)
 
-git commit
+## for that you should do the following actions:
 
-git push
+install the library (pip ...)
+
+update requirements (pip freeze > requirments.txt)
+
+git commit (...)
+
+git push (...)
 
 
 
