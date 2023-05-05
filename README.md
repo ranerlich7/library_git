@@ -14,6 +14,7 @@ python book.py
 # ex 2: 
 
 make a new file. numtext.py . and run this code:
+
 import numpy
 
 arr = numpy.array([1, 2, 3, 4, 5])
