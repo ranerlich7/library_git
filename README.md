@@ -9,12 +9,18 @@ python -m venv venv
 4. install packages
 pip install -r requirements.txt
 5. run
-run python book.py
+python book.py
 
-ex 2:
+# ex 2: 
+
+install another library and add it to requirements.txt. then update it to github
+
 install pandas. add some code.
+
 pip freeze > requirments.txt
+
 git commit
+
 git push
 
 
